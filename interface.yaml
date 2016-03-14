@@ -1,0 +1,3 @@
+name: git
+summary: Interface for relating to, and scaling, a git server
+maintainer: 'Marco Ceppi <marco@ceppi.net>'
